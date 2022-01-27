@@ -1,5 +1,5 @@
 <h1>Privacy Policy</h1>
-<p>Last updated: January 22, 2022</p>
+<p>Last updated: January 28, 2022</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We do not use or collect any of Your Personal data in Our Service. This Privacy Policy has been created with the help of the <a href="https://www.termsfeed.com/blog/sample-privacy-policy-template/" target="_blank">Privacy Policy Template</a>.</p>
 <h1>Interpretation and Definitions</h1>
@@ -47,7 +47,7 @@
 <h2>Disclosure of Your Personal Data</h2>
 <p>We do not share or disclose Your personal data as We do not collect at all in the first place.</p>
 <h1>Children's Privacy</h1>
-<p>Our Application does not collect any personally identifiable information from anyone under the age of 13. The Service is safe to use for all ages, including children 13 and under.</p>
+<p>Our Application does not collect any personally identifiable information from anyone under the age of 13.</p>
 <h1>Links to Other Websites</h1>
 <p>No links to any third-party websites are present in Our Application, and thus your experience with Our Service is safe.</p>
 </p>
